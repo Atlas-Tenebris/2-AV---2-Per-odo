@@ -1,6 +1,5 @@
-=============================
-  TRADUÇÃO PARA O PORTUGUÊS
-=============================
+   TRADUÇÃO PARA O PORTUGUÊS
+
 Basicamente, este é um projeto feito por mim e um amigo da faculdade para o nosso 2º exame da disciplina “Laboratório de Programação II”.
 O projeto funciona como a página de uma livraria que também vende sobremesas congeladas, como sorvetes e milkshakes. O nome fictício desta livraria é "Milk-Shakespeare".
 minha parte no projeto foi:
@@ -13,9 +12,7 @@ minha parte no projeto foi:
 - Código correto e de teste
 
 
-=============================
      ENGLISH TRANSLATION 
-============================
 
 Basically, this is a project done by me and a college friend for our 2nd exam in the subject "Programming Laboratory II".
 The project works like a page for a bookstore that also sells frozen desserts, such as ice cream and milkshakes. The fictional name of this bookstore is "Milk-Shakespeare".
